@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log("Usman");
 <<<<<<< HEAD
 
@@ -12,5 +13,8 @@ console.log("Ashan");
 console.log("Hams");
 >>>>>>> feat/hams
 =======
+=======
+
+>>>>>>> 40e3c09 (feat: Other removed console)
 console.log("Other");
 >>>>>>> feat/other
