@@ -18,3 +18,6 @@ console.log("Hams");
 >>>>>>> 40e3c09 (feat: Other removed console)
 console.log("Other");
 >>>>>>> feat/other
+
+
+console.log("other2");
